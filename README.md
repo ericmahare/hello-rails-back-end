@@ -1,24 +1,71 @@
-# README
+# hello-rails-back-end
+This is an application for connect react and rails
+## Built With
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- [x] Programming Languages: Ruby
+- [x] Frameworks: Ruby on Rails
+- [x] Linter: [Rubocop](https://rubocop.org/)
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+To get a local copy up and running follow these simple steps.
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
 
-* Database creation
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
+```
 
-* Database initialization
+Likewise for Ruby installation.
+```
+$ ruby --version && irb
+```
+### testing 
 
-* How to run the test suite
+You can test the code for linter errors using.
+```
+$ rubocop --color
+```
+### Setup
 
-* Services (job queues, cache servers, search engines, etc.)
+Clone the repository using the GitHub link provided below.
 
-* Deployment instructions
+### Install
 
-* ...
+In the terminal, go to your file directory and run this command.
+
+```
+$ git clone https://github.com/ericmahare/hello-rails-back-end.git
+
+```
+
+## Author
+
+👤 **Eric Mahare**
+
+- GitHub: [@erikmahare](https://github.com/ericmahare) 
+- Twitter: [@erikmahare](https://twitter.com/erikmahare) 
+- LinkedIn: [Eric Mahare](https://www.linkedin.com/in/eric-mahare-358944183/) 
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to microverse and anyone who supported me through out the project
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
