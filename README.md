@@ -5,6 +5,8 @@ This is an application for connect react and rails
 - [x] Programming Languages: Ruby
 - [x] Frameworks: Ruby on Rails
 - [x] Linter: [Rubocop](https://rubocop.org/)
+## Front-end repo
+https://github.com/ericmahare/hello-react-front-end
 
 ## Getting Started
 
